@@ -36,4 +36,4 @@ Islands outlined around their edges
 ![Colored](ProgressImages/IslandOutlines.png)
 
 Final product
-![Final](ProgressImages/FinalMap.png)
+![Final](ProgressImages/FinalImage.png)
